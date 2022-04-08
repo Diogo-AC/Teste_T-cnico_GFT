@@ -1,0 +1,13 @@
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.exe
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.deps.json
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.runtimeconfig.json
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.runtimeconfig.dev.json
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.dll
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\bin\Debug\netcoreapp3.1\Exercício_GTF_4.pdb
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.csprojAssemblyReference.cache
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.AssemblyInfoInputs.cache
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.AssemblyInfo.cs
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.dll
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.pdb
+C:\Users\Diogo\.vscode\Teste_Técnico_GFT\Exercício_GTF_4\obj\Debug\netcoreapp3.1\Exercício_GTF_4.genruntimeconfig.cache
